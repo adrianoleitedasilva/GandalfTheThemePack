@@ -1,7 +1,7 @@
 {
   "name": "gandalf-the-theme-pack",
   "displayName": "Gandalf the Theme Pack",
-  "description": "Um pack de temas inspirado em Gandalf: Dark, Light e High Contrast, com foco em legibilidade, elegância e conforto visual.",
+  "description": "Gandalf the Theme Pack is a collection of VS Code themes including Dark, Light, and High Contrast variants. Built with a focus on readability, visual balance, and comfort, it delivers a clean interface, soft syntax, and consistent contrast for different lighting conditions and accessibility needs.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.108.1"
